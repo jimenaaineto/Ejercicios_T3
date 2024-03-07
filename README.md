@@ -1,5 +1,6 @@
 # Ejercicios_T3
 
+https://github.com/jimenaaineto/Ejercicios_T3.git
 
 (5 minutos) Escribe un programa que cree una clase para representar un objeto punto en tres dimensiones. Proporcionar un constructor que inicialice los valores del punto al origen de coordenadas y otro que permita especificar las coordenadas del punto. Sobrescribe su método toString() para que muestre información sobre los puntos. Usa la clase en un programa donde crees objetos que representen los puntos (12, 13, 18) y (8, 14, 0) y los muestres por consola.
 (5 minutos) Crea una clase fecha que almacene el día, el mes y el año de una fecha. Proporciona funciones miembro para acceder a estos atributos (getDia(), getMes() y getAño() y para modificarlos (setDia(int dia), setMes(int mes) y setAño(int año)). Sobreescribe su método toString(). Crea la fecha 20/10/2018. Muéstrala por pantalla. Después cambia el año 2019. Muéstrala por pantalla.
